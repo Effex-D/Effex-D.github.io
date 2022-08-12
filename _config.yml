@@ -25,7 +25,6 @@ baseurl: ""
 url: ""
 
 # Build settings
-theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
